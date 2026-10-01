@@ -1,0 +1,6 @@
+{
+  "name": "X BOOST",
+  "description": "Rewarded ad and task platform featuring daily video ads, social channel tasks, multi-tier referral system, dynamic withdrawal fees, and real Telegram Profile Verification.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
